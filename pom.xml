@@ -14,7 +14,7 @@
         <module>gmall_member</module>
         <module>gmall_order</module>
         <module>gmall_product</module>
-        <module>gmall_storage</module>
+        <module>gmall_warehouse</module>
     </modules>
 
 </project>

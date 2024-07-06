@@ -11,9 +11,9 @@
     </parent>
 
     <groupId>com.coraxcorvus.gmall</groupId>
-    <artifactId>gmall_storage</artifactId>
+    <artifactId>gmall_warehouse</artifactId>
     <version>1.0.0</version>
-    <name>gmall_storage</name>
+    <name>gmall_warehouse</name>
     <description>仓储服务</description>
 
     <properties>
