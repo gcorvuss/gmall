@@ -15,6 +15,10 @@
         <module>gmall_order</module>
         <module>gmall_product</module>
         <module>gmall_warehouse</module>
+
+        <module>renren_faster</module>
+        <module>renren_generator</module>
+        <module>gmall_common</module>
     </modules>
 
 </project>
